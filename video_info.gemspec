@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
   s.required_ruby_version = '>= 1.9.3'
 
   s.add_dependency 'addressable'
-  s.add_dependency 'multi_json', '~> 1.11'
+  s.add_dependency 'multi_json', '~> 1.10'
   s.add_dependency 'htmlentities'
   s.add_dependency 'iso8601'
   s.add_dependency 'oga'
